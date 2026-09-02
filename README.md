@@ -62,3 +62,4 @@ https://blog.openthreatresearch.com/evolving-the-threat-hunter-playbook-planning
 ## Acknowledgements
 
 * We document and share our content via a [Jupyter Book](https://jupyterbook.org/intro.html) which was created by [Sam Lau](http://www.samlau.me/) and [Chris Holdgraf](https://predictablynoisy.com/) with support of the **UC Berkeley Data Science Education Program and the [Berkeley Institute for Data Science](https://bids.berkeley.edu/)**
+
